@@ -2,7 +2,7 @@ import { BsFillBoxFill } from "react-icons/bs";
 const NftForm = () => {
   return (
     <div className="flex justify-center py-10 card-bg">
-      <div className="card  w-full max-w-xl shrink-0 shadow-2xl ">
+      <div className="card  max-w-xl shrink-0 shadow-2xl w-11/12 mx-auto">
         <div className="card-body bg-[#0D121D] border-1 border-gray-700 rounded-2xl">
           <h3 className="font-semibold text-2xl">Mint Your NFT</h3>
           <fieldset className="fieldset mt-2">
