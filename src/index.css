@@ -10,3 +10,8 @@
   background: rgba(0, 0, 0, 1);
 
 }
+
+.card-bg{
+  background: linear-gradient(90deg, #000000 0%, #111827 100%);
+
+}

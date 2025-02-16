@@ -2,7 +2,7 @@ import { FaPlayCircle } from "react-icons/fa";
 import { HiMiniRocketLaunch } from "react-icons/hi2";
 const Hero = () => {
   return (
-    <div className="hero py-10 bg-gradient-to-r from-gray-950 to-gray-900">
+    <div className="hero py-10 card-bg">
       <div className="hero-content text-center w-11/12 mx-auto">
         <div className="w-2/3 mx-auto">
           <h1 className="text-6xl font-bold  mx-auto py-8">
