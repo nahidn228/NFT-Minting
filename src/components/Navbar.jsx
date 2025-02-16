@@ -6,7 +6,7 @@ const Navbar = () => {
           <img src="Frame.png" alt="" />
         </div>
         <div>
-          <button className="btn-bg btn rounded-lg font-light text-lg">
+          <button className="btn-bg btn rounded-2xl font-light text-lg px-6">
             Connect Wallet
           </button>
         </div>
